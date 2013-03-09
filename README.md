@@ -2,9 +2,17 @@ Bakul Hostel Portal
 (Project No.22)
 
 We have made a web portal which manages and keeps a track of all the information and activities
-regarding hostel. In our website we have made two modules viz. Students Module for the
-students of Bakul Hostel and Administrator Module for the Hostel Caretakers and Wardens.
+regarding hostel.
 
+System requirements -
+    The following is required for the portal to work:
+1. Apache webserver to deploy our website
+2. PHP installed and running
+3. CAS Login Gateway
+4. MySQL Database
+
+In our website two modules have been made viz. Students Module for the
+students of Bakul Hostel and Administrator Module for the Hostel Caretakers and Wardens.
 Details of the two modules are as follows:-
 Students Module: A student is able to login to website using his id and then have the following
 functionalities:
@@ -49,3 +57,7 @@ Group No: 20
 - Yash Shah(201101127)
 - Prateek Mehta(201203006)
 
+
+NOTE:-
+This code has been written to work on the institute's servers. Hence, if you want to run it on your machine,
+mysql tables have to be changed in the files.
