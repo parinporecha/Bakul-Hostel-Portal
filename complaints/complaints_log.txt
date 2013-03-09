@@ -1,0 +1,7 @@
+Nov 15, 16:40:25 ADD: 201101011 added a complaint with type Carpenter and place Room.
+Nov 15, 16:42:01 ADD: 201101011 added a complaint with type Other and place Lobby.
+Nov 15, 16:42:09 RESOLVE: mahaver.chopra resolved complaint with id 19.
+Nov 15, 16:44:13 ADD: 201203003 added a complaint with type Electrician and place Lobby.
+Nov 15, 16:44:20 ADD: 201101127 added a complaint with type Carpenter and place Room.
+Nov 15, 16:45:42 ADD: 201203003 added a complaint with type Electrician and place Room.
+Nov 15, 17:29:21 ADD: 201203006 added a complaint with type HouseKeeping and place Room.

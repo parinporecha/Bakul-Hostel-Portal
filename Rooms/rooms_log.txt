@@ -1,0 +1,106 @@
+Nov 15, 00:51:33 ADD: parin.porecha added student 201101345 to room no. 12.
+Nov 15, 00:51:33 STATUS: Occupancy status of room no. 12 changed to 2.
+Nov 15, 00:53:44 DELETE: parin.porecha deleted student 201101748   from room no. 12.
+Nov 15, 00:53:44 STATUS: Occupancy status of room no. 12 changed to 1.
+Nov 15, 00:53:52 ADD: parin.porecha added student 201101349 to room no. 12.
+Nov 15, 00:53:52 STATUS: Occupancy status of room no. 12 changed to 2.
+Nov 15, 00:54:02 ADD: parin.porecha added student 201101435 to room no. 12.
+Nov 15, 00:54:02 STATUS: Occupancy status of room no. 12 changed to 3.
+Nov 15, 00:55:07 DELETE: mahaver.chopra deleted student 201201047  201264209 from room no. 14.
+Nov 15, 00:55:07 STATUS: Occupancy status of room no. 14 changed to 1.
+Nov 15, 00:55:20 ADD: mahaver.chopra added student 201101745 to room no. 14.
+Nov 15, 00:55:20 STATUS: Occupancy status of room no. 14 changed to 2.
+Nov 15, 00:55:36 ADD ERROR: mahaver.chopra could not add 201104006 to room 13. Student already exists in room 17.
+Nov 15, 15:46:09 ADD: yash.shah added student 201101127 to room no. 13.
+Nov 15, 15:46:09 STATUS: Occupancy status of room no. 13 changed to 3.
+Nov 15, 16:03:07 ADD: yash.shah added student 20110112 to room no. 1.
+Nov 15, 16:03:07 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:03:24 ADD: yash.shah added student 201101112 to room no. 1.
+Nov 15, 16:03:24 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:03:45 ADD: yash.shah added student 201101112 to room no. 1.
+Nov 15, 16:03:45 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:04:33 ADD: yash.shah added student 20111012 to room no. 1.
+Nov 15, 16:04:33 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:05:12 ADD: yash.shah added student 20110112 to room no. 1.
+Nov 15, 16:05:12 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:06:34 ADD ERROR: ayush.datta could not add 201101011 to room 3. Student already exists in room 13.
+Nov 15, 16:07:00 ADD: mahaver.chopra added student 201101147 to room no. 1.
+Nov 15, 16:07:00 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:09:04 ADD: ayush.datta added student 20110112 to room no. 2.
+Nov 15, 16:09:04 STATUS: Occupancy status of room no. 2 changed to 1.
+Nov 15, 16:11:06 ADD: mahaver.chopra added student 201101045 to room no. 1.
+Nov 15, 16:11:06 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:11:42 DELETE: mahaver.chopra deleted student 201203006 201206089  from room no. 15.
+Nov 15, 16:11:42 STATUS: Occupancy status of room no. 15 changed to 1.
+Nov 15, 16:13:54 ADD: mahaver.chopra added student 201101001 to room no. 1.
+Nov 15, 16:13:54 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:17:54 ADD: yash.shah added student 20110112 to room no. 1.
+Nov 15, 16:17:54 STATUS: Occupancy status of room no. 1 changed to 2.
+Nov 15, 16:18:37 ADD: yash.shah added student 201101185 to room no. 2.
+Nov 15, 16:18:37 STATUS: Occupancy status of room no. 2 changed to 1.
+Nov 15, 16:18:46 ADD: yash.shah added student 201101195 to room no. 2.
+Nov 15, 16:18:46 STATUS: Occupancy status of room no. 2 changed to 2.
+Nov 15, 16:19:05 ADD: yash.shah added student 20111012 to room no. 3.
+Nov 15, 16:19:05 STATUS: Occupancy status of room no. 3 changed to 1.
+Nov 15, 16:19:14 ADD: yash.shah added student 201101126 to room no. 3.
+Nov 15, 16:19:14 STATUS: Occupancy status of room no. 3 changed to 2.
+Nov 15, 16:19:33 ADD ERROR: yash.shah could not add 201101126 to room 4. Student already exists in room 3.
+Nov 15, 16:21:11 ADD: yash.shah added student 201101112 to room no. 4.
+Nov 15, 16:21:11 STATUS: Occupancy status of room no. 4 changed to 1.
+Nov 15, 16:21:24 ADD: yash.shah added student 201101011 to room no. 4.
+Nov 15, 16:21:24 STATUS: Occupancy status of room no. 4 changed to 2.
+Nov 15, 16:21:51 ADD: yash.shah added student 201203003 to room no. 5.
+Nov 15, 16:21:51 STATUS: Occupancy status of room no. 5 changed to 1.
+Nov 15, 16:22:20 ADD: yash.shah added student 201101055 to room no. 5.
+Nov 15, 16:22:20 STATUS: Occupancy status of room no. 5 changed to 2.
+Nov 15, 16:23:07 ADD: yash.shah added student  201203002 to room no. 6.
+Nov 15, 16:23:07 STATUS: Occupancy status of room no. 6 changed to 1.
+Nov 15, 16:23:19 ADD: yash.shah added student 201101111 to room no. 7.
+Nov 15, 16:23:19 STATUS: Occupancy status of room no. 7 changed to 1.
+Nov 15, 16:23:29 ADD: yash.shah added student 201101258 to room no. 7.
+Nov 15, 16:23:29 STATUS: Occupancy status of room no. 7 changed to 2.
+Nov 15, 16:23:45 ADD: yash.shah added student 201102345 to room no. 8.
+Nov 15, 16:23:45 STATUS: Occupancy status of room no. 8 changed to 1.
+Nov 15, 16:23:54 ADD: yash.shah added student 201102334 to room no. 8.
+Nov 15, 16:23:54 STATUS: Occupancy status of room no. 8 changed to 2.
+Nov 15, 16:24:08 ADD: yash.shah added student 201101132 to room no. 9.
+Nov 15, 16:24:08 STATUS: Occupancy status of room no. 9 changed to 1.
+Nov 15, 16:24:17 ADD: yash.shah added student 201101148 to room no. 9.
+Nov 15, 16:24:17 STATUS: Occupancy status of room no. 9 changed to 2.
+Nov 15, 16:24:35 ADD: yash.shah added student 201102128 to room no. 10.
+Nov 15, 16:24:35 STATUS: Occupancy status of room no. 10 changed to 1.
+Nov 15, 16:24:44 ADD: yash.shah added student 201101124 to room no. 10.
+Nov 15, 16:24:44 STATUS: Occupancy status of room no. 10 changed to 2.
+Nov 15, 16:25:12 DELETE: yash.shah deleted student    from room no. 12.
+Nov 15, 16:25:12 STATUS: Occupancy status of room no. 12 changed to 3.
+Nov 15, 16:30:56 ADD: yash.shah added student 201101127 to room no. 1.
+Nov 15, 16:30:56 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:32:07 ADD: yash.shah added student 201101127 to room no. 1.
+Nov 15, 16:32:07 STATUS: Occupancy status of room no. 1 changed to 1.
+Nov 15, 16:32:18 ADD: yash.shah added student 201101198 to room no. 1.
+Nov 15, 16:32:18 STATUS: Occupancy status of room no. 1 changed to 2.
+Nov 15, 16:32:36 ADD: yash.shah added student 201101012 to room no. 11.
+Nov 15, 16:32:36 STATUS: Occupancy status of room no. 11 changed to 1.
+Nov 15, 16:32:45 ADD ERROR: yash.shah could not add 201102128 to room 11. Student already exists in room 10.
+Nov 15, 16:32:57 ADD: yash.shah added student 201102341 to room no. 11.
+Nov 15, 16:32:57 STATUS: Occupancy status of room no. 11 changed to 2.
+Nov 15, 16:33:05 ADD: yash.shah added student 201102134 to room no. 11.
+Nov 15, 16:33:05 STATUS: Occupancy status of room no. 11 changed to 3.
+Nov 15, 16:33:19 ADD: yash.shah added student 201101324 to room no. 12.
+Nov 15, 16:33:19 STATUS: Occupancy status of room no. 12 changed to 1.
+Nov 15, 16:33:28 ADD: yash.shah added student 201101325 to room no. 12.
+Nov 15, 16:33:28 STATUS: Occupancy status of room no. 12 changed to 2.
+Nov 15, 16:33:36 ADD: yash.shah added student 201101139 to room no. 12.
+Nov 15, 16:33:36 STATUS: Occupancy status of room no. 12 changed to 3.
+Nov 15, 16:33:55 ADD: yash.shah added student 201101098 to room no. 13.
+Nov 15, 16:33:55 STATUS: Occupancy status of room no. 13 changed to 1.
+Nov 15, 16:34:03 ADD: yash.shah added student 201101096 to room no. 13.
+Nov 15, 16:34:03 STATUS: Occupancy status of room no. 13 changed to 2.
+Nov 15, 17:04:10 ADD: ayush.datta added student 201101034 to room no. 14.
+Nov 15, 17:04:10 STATUS: Occupancy status of room no. 14 changed to 1.
+Nov 15, 17:04:22 ADD: ayush.datta added student 201101145 to room no. 14.
+Nov 15, 17:04:22 STATUS: Occupancy status of room no. 14 changed to 2.
+Nov 15, 17:06:42 ADD: parin.porecha added student 201101169 to room no. 15.
+Nov 15, 17:06:42 STATUS: Occupancy status of room no. 15 changed to 1.
+Nov 15, 17:30:55 ADD: parin.porecha added student 201203006 to room no. 16.
+Nov 15, 17:30:55 STATUS: Occupancy status of room no. 16 changed to 1.
