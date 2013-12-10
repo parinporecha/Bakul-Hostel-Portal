@@ -59,5 +59,6 @@ Group No: 20
 
 
 NOTE:-
-This code has been written to work on the institute's servers. Hence, if you want to run it on your machine,
-mysql tables have to be changed in the files.
+This code has been written to work on the institute's servers. If you want to run it on your machine,
+mysql tables have to be changed in the files, and CAS Authentication has to be altered or removed depending on your servers.
+Please open an issue here if you find any bugs, or contact the developers
